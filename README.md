@@ -1,1 +1,5 @@
-# linux_base
+#### linux_base
+
+
+#### links
+- https://optimization.guide/
